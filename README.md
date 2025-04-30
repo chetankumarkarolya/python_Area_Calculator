@@ -10,6 +10,7 @@ This is a simple Python program that calculates the area of different geometric 
   - Circle
   - Rectangle
   - Triangle
+  - Square
 - Uses formulas based on user input
 - Loop to allow multiple calculations
 - Clean and beginner-friendly structure
